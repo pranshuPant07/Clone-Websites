@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background: #fafafa;
+    color: #000000;
+}
+.LoginPage{
+width: 100%;
+height: 700px;
+display: flex;
+float: left;
+}
+.image{
+    width: 50%;
+    height: 100vh;
+    padding: 20px 22%;
+}
+.image img{
+    width: 440px;
+    height: 600px;
+}
+
+.loginForm{
+    width: 50%;
+    height: 100vh;
+    padding: 50px 10px;
+}
+.form{
+    width: 350px;
+    height: 400px;
+    border: solid 1px;
+    border-color: #bebebe;
+}
+.form img{
+    width: 175px;
+    height: 75px;
+    display: flex;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.inputForm{
+    width: 350px;
+    height: 175px;
+    margin-top: 20px;
+    line-height: 50px;
+    padding: 1px 15%;
+}
+.inputForm input{
+    width:250px ;
+    height: 40px;
+    background: #fafafa ;
+    border: solid 1px;
+    border-color: #bebebe;
+}
+.inputForm button{
+    width: 250px;
+    background: #60ace7 ;
+    font-size: 15   px;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.rest{
+    margin-top: 200 px;
+    text-align: center;
+    color: rgb(110, 110, 110);  
+    font-size: 14px; 
+}
+.facebook{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25px;
+}
+.facebook1{
+    font-size: 15px;
+    text-decoration: none;
+    color: #1c22c0;
+}
+.forgot{
+    font-size: 12px;
+    text-decoration: none;
+    color: #868686;
+}
+
+.signup{
+    width: 350px;
+    height: 55px;
+    border: solid 1px;
+    border-color: #bebebe;
+    margin-top: 10px;
+    font-size: 15px;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center ;
+}
+.signup a{
+    text-decoration: none;
+    color: #405DE6;
+}
+.gettheApp{
+    width: 350px;
+    margin-top: 20px;
+}
+.gettheApp p{
+    text-align: center;
+    font-size: 15px;
+}
+.gettheApp img{
+    width: 100 px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left :30px;
+    cursor: pointer;
+}
+
+
+/* ----footer---- */
+.footer{
+    width: 1000px;
+    height: 50px;
+    display: flex;
+    float: left;
+    font-size: 12px;
+    margin-left: 350px;
+}
+.links a{
+    color: #868686;
+    text-decoration: none;
+}
+.first{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.second{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.third{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.fourth{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.fifth{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.sixth{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.seventh{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.eighth{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.ninth{
+    width: 80px;
+    display: flex;
+    float: left;
+}
+.tenth{
+    width: 100px;
+    display: flex;
+    float: left;
+}
+.eleventh{
+    width: 60px;
+    display: flex;
+    float: left;
+}
+.thirteen{
+    width: 80px;
+    display: flex;
+    float: left;
+}
+                

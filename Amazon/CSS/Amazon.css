@@ -1,0 +1,711 @@
+.Amazon
+{
+    width: 1519px;
+    height:100%;
+    background-color:white;
+}
+
+.Header
+{
+    width:1519px;
+    height:80px;
+    background-color: #232F3E;
+    text-decoration: none;
+
+}
+.Logo
+{
+    width:130px;
+    height:80px;
+    float: left;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Pincode
+{
+    width:145px;
+    height:70px;
+    float:left;
+    font-size:12px;
+    margin-top:6px ;
+    /*margin-bottom:3px;*/
+    line-height: 1px;
+    margin-left: 3px;
+    color: #ccc;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.noida
+{
+    font-size: 14px;
+    font-weight: 700;
+}
+.Searchbar
+{
+    width: 700px;
+    height:70px;
+    background-color: #232F3E;
+    float: left;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+form
+{
+    margin-top: 15px;
+    width:700px;
+    height:40px;
+    display: flex;
+}
+form input
+{
+   flex: 1;
+   border: none;
+   outline:none;
+   border: 20px;
+}
+form button
+{
+    background-color: rgb(251, 196, 95);
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.space
+{
+    width: 20px;
+    height: 70px;
+    float: left;
+}
+
+.Language
+{
+    width: 80px;
+    height: 70px;
+    display: flex;
+    float: left;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}  
+
+
+.dropdown {
+    width: 55 px;
+    height: 40px;
+    overflow: hidden;
+    background-color: #232F3E;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+.dropdown select {
+    background-color:#232F3E;
+    width: 45px;
+    padding:3 px;
+    font-size: 16px;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    height: 20px;
+    font-family:helvetica-roman;
+    color: white; 
+    font-weight: bolder;
+
+ }
+
+ .space
+ {
+    width: 23px;
+ }
+ 
+.Account
+{
+    width: 160px;
+    height: 70px;
+    display: flex;
+    float: left;
+    line-height: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content:center;
+
+}
+.acc{
+    width: 55 px;
+    height: 40px;
+    overflow: hidden;
+    background-color: #232F3E;
+    
+ }
+.acc select{
+    background-color:#232F3E;
+    width: 150px;
+    padding:3 px;
+    font-size: 16px;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    height: 20px;
+    font-family:helvetica-roman;
+    color: white; 
+    font-weight: bolder;
+
+ }
+font
+{
+    font-size: 15px;
+    color: white;
+    margin-left: 5px;
+}
+
+.Returnandorder
+{
+    width: 110px;
+    height:70px;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.return
+{
+   color: white;
+   font-size: 18px;
+}
+.order
+{
+    color: white;
+    font-weight:900;
+    font-size: 18px;
+}
+.Cart
+{
+    width: 128px;
+    height:70px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.cartt
+{
+    margin-top: 25px;   
+    font-size: 18px;
+}
+
+
+.Menu
+{
+    width: 1519px;
+    height:45px;
+    background-color: #232F3E;
+    color: white;
+    display: flex;
+    flex-wrap:nowrap;
+    align-content: center;
+    font-family:'Amazon Ember', sans-serif;
+    font-size: 05px;
+    border-top: 2px solid  #384b61 ;
+    align-items: center;
+}
+.listtt
+{
+    width: 1100px;
+    height: 45px;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+.jawann
+{
+    width:419px;
+    height: 45px;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    text-decoration: none;
+    word-spacing: 20px;
+ 
+}
+
+ul li {
+    display: inline-block;
+    text-decoration: none;
+}
+.no
+{
+    word-spacing:1px;
+}
+
+.jawan
+{
+    margin-top: 2px;
+}
+
+
+ul li a {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    padding: 5px 70 px;
+}
+
+
+
+.Content
+{
+    width: 1519px;
+    height: auto;
+}
+.Imagess
+{
+    width: 1519px;
+    height: 300px;
+}
+.spacccces
+{
+    width: 1519px;
+    height: 20px;
+}
+.buy
+{
+    width: 1519px;
+    height: 420px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Keepshoppingfor
+{
+    width: 350px;
+    height: 420px;
+    float: left;
+}
+.Keep
+{
+    width: 350px;
+    height: 25px;
+    background-color: #DDDDDD;
+    display: flex;
+    float: left;
+}
+.picture
+{
+    width: 350px;
+    height: 395px;
+    display: flex;    
+}
+.hehehe
+{
+    width: 350px;
+    height: 420px;
+    float: left;
+}
+.st
+{
+    width: 450px;
+    height: 200px;
+    float:left;
+}
+.nd
+{
+    width: 450px;
+    height: 200px;
+    float:left;
+}
+.rd
+{
+    width: 450px;
+    height: 200px;
+}
+.th
+{
+    width: 450px;
+    height: 200px;
+}
+.hmm
+{
+    font-size: 20px;
+    font-family:'Amazon Ember', sans-serif;
+}
+.haan
+{
+    width: 106.38px;
+    height: 111.5px ;
+    float: left;
+}
+.Pickupwhereyouleftoff
+{
+    width: 350px;
+    height: 420px;
+    background-color:rosybrown;
+    float: left;  
+}
+.buyagain
+{
+    width: 350px;
+    height: 420px;
+    background-color:plum;
+    float: left;  
+}
+.reviewyourpurchase
+{
+    width: 350px;
+    height: 420px;
+    background-color:mediumorchid;
+    float: left;
+}
+.videoo
+{
+    width: 1519px;
+    height: 420px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.apd
+{
+    width: 716px;
+    height: 420px;
+    background-color:yellow;
+    float: left;
+}
+.revampyourhomestyle
+{
+    width: 340px;
+    height: 420px;
+    background-color:cadetblue;
+    float: left;
+}
+.upto
+{
+    width: 340px;
+    height: 420px;
+    background-color:orange;
+    float: left;
+}
+.Shoppingg
+{
+    width: 1460px;
+    height:285px;
+}
+.Shoppinggg
+{
+    width: 1460px;
+    height:285px;
+}
+.att
+{
+    width: 1460px;
+    height: 285px;
+}
+.Shoppingggg
+{
+    width: 1519px;
+    height:420px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Shoppinggggg
+{
+    width: 1460px;
+    height:285px;
+}
+
+
+
+
+
+.Footer
+{
+    width: 1519px;
+    height: 750px;
+}
+.Footer1
+{
+    width: 1519px;
+    height: 350px;
+    background-color:  #232F3E;
+    border-bottom: 1px solid #304156;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    color: white;
+}
+
+.f1
+{
+    width: 250px;
+    height: 350px;
+    color: white;
+    float:left;
+    font-family:'Amazon Ember', sans-serif;
+    list-style-type: none;
+    direction: ltr;
+    line-height: 30px;
+    text-align: center;
+    line-height: 40px;
+}
+.space1
+{
+    width: 240px;
+    height: 350px;
+    float: left;
+}
+.f11
+{
+    font-weight: bolder; 
+    color: white;
+    font-size: 17px;   
+}
+
+.f2
+{
+    width: 250px;
+    height: 350px;
+    float: left;
+    color: #DDDDDD;
+    list-style-type: none;
+    line-height: 30px;
+    color: #DDDDDD;
+    font-family:'Amazon Ember', sans-serif;
+    text-align: center;
+    line-height: 40px;
+}
+
+.f12
+{
+    font-weight: bolder;
+    color: white;
+    font-size: 17px;   
+}
+
+.f3
+{
+    width: 275px;
+    height: 350px;
+    float: left;
+    color: white;
+    list-style-type: none;
+    line-height: 30px;
+    color: #DDDDDD;
+    font-family:'Amazon Ember', sans-serif;
+    text-align: center;
+    line-height: 30px;
+}
+
+.f13
+{
+    font-weight: bolder;
+    color: white;
+    font-size: 17px;   
+}
+
+.f4
+{
+    width: 250px;
+    height: 350px;
+    float: left;
+    color: white;
+    list-style-type: none;
+    line-height: 30px;
+    color: #DDDDDD;
+    font-family:'Amazon Ember', sans-serif;
+    text-align: center;
+    line-height: 40px;
+}
+
+.f14
+{
+    font-weight: bolder;
+    color: white;
+    font-size: 17px;    
+}
+
+.Footer2
+{
+    width: 1519px;
+    height: 80px;
+    background-color:#232F3E;
+    display: flex;
+}
+.photoo
+{
+    margin-top: 35px;
+    margin-left: 600px;
+}
+
+.dropdown1 
+{
+    margin-left: 60px;
+    margin-top: 34px;
+    width: 55 px;
+    height: 40px;
+    overflow: hidden;
+ }
+.dropdown1 select {
+    background-color:#232F3E;
+    width: 100px;
+    padding:3 px;
+    font-size: 16px;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    height: 20px;
+    font-family:'Amazon Ember', sans-serif;
+    color: #DDDDDD;
+ }
+.Footer3
+{
+    
+    width: 1519px;
+    height: 80px;
+    background-color: #232F3E;
+    text-align: center;
+
+}
+.noo{
+    width: 1519px;
+    height: 80px;
+    background-color: #232F3E;
+    text-align: center;
+    color: #DDDDDD;
+    word-spacing: 12px;
+    font-size: 12px;
+    font-family: Arial
+}
+.spacess
+{
+    color: #232F3E;
+}
+.helloworld
+{
+    text-align: center;
+    color: #DDDDDD;
+    font-size: 13px;
+    font-family:'Amazon Ember', sans-serif;
+    line-height: 10px;
+    font-size: 12px;
+}
+.Footer4
+{
+    width: 1519px;
+    height: 160px;
+    background-color: #131a23;
+    float: left;
+    color: #999999;
+    font-size: 13px;
+    font-family:'Amazon Ember', sans-serif;
+    line-height: 22px;
+
+}
+.space3
+{
+    width: 256px;
+    height: 240px;
+    float: left;
+}
+.first
+{
+    width: 200px;
+    height: 240px;
+    float: left;
+}
+.second
+{
+    width: 200px;
+    height: 240px;
+    float: left;
+}
+.third
+{
+    width: 200px;
+    height: 240px;
+    float: left;
+}
+.forth
+{
+    width: 200px;
+    height: 240px;
+    float: left;
+}
+.fifth
+{
+    width: 200px;
+    height: 240px;
+    float: left;
+}
+.hi
+{
+    color: #DDDDDD;
+}
+.footer5
+{
+    width: 1519px;
+    height: 90px;
+    background-color:#131a23;
+    float: left;
+    color: #DDDDDD;
+    flex-direction: column;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family:'Amazon Ember', sans-serif;
+    font-size: 13px;
+}
+a
+{
+ text-decoration: none;
+ color: #DDDDDD;
+}
+
+
+a:link {
+    color: white;
+  }
+  
+  a:visited {
+    color:white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:white;
+  }
+  
+  /* selected link */
+  a:active {
+    color:white;
+  }
+  
+
+.nachho:link {
+    color: white;
+  }
+  
+.nachho:visited {
+    color: #DDDDDD;
+  }
+  
+  /* mouse over link */
+.nachho:hover {
+    color:#DDDDDD;
+  }
+  
+  /* selected link */
+.nachho:active {
+    color:white;
+}
+
+
+.dot
+{
+    color:#131a23;
+}
